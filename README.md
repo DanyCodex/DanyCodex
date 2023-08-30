@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/DanyCodex/DanyCodex/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/danycodex/danycodex/blob/output/github-contribution-grid-snake.svg)
 
 ###
