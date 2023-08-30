@@ -3,14 +3,13 @@
 name: Generate Snake
 
 # Controls when the action will run. This action runs every 6 hours.
-
 on:
   schedule:
-      # every 6 hours
+    # every 6 hours
     - cron: "0 */6 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
+workflow_dispatch:
 
 # The sequence of runs in this workflow:
 jobs:
@@ -22,7 +21,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+    # Checks repo under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
     # Generates the snake  
@@ -41,7 +40,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}  # Use the secret name you defined
           branch: main
           force: true
 
@@ -51,7 +50,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Use the secret name you defined
