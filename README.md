@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/DanyCodex/DanyCodex/blob/output/snake.svg)
+<img src="https://raw.githubusercontent.com/DanyCodex/DanyCodex/output/snake.svg" alt="Snake animation" />
 
 ###
