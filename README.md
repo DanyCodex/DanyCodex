@@ -4,7 +4,7 @@
 
 ###
 
-<h5 align="left">About Me<br>I am a passionate Full Stack developer dedicated to crafting innovative technological solutions. With experience in a variety of programming languages and technologies, I strive to build robust and functional applications on both the front-end and back-end. My focus is on code quality and user experience.<br><br>Highlighted Projects<br>🛍️ Sales System: I developed a sales system using Java Swing and MySQL, providing a friendly and functional interface for sales and product management.<br><br>Contact<br>I'm excited for what the future holds in the world of development! If you're interested in collaborating on exciting projects or just want to connect, feel free to contact me.</h5>
+<h4 align="left">About Me<br>I am a passionate Full Stack developer dedicated to crafting innovative technological solutions. With experience in a variety of programming languages and technologies, I strive to build robust and functional applications on both the front-end and back-end. My focus is on code quality and user experience.<br><br>Highlighted Projects<br>🛍️ Sales System: I developed a sales system using Java Swing and MySQL, providing a friendly and functional interface for sales and product management.<br><br>Contact<br>I'm excited for what the future holds in the world of development! If you're interested in collaborating on exciting projects or just want to connect, feel free to contact me.</h4>
 
 ###
 
