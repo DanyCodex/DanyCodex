@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">About Me<br>I am a passionate Full Stack developer dedicated to crafting innovative technological solutions. With experience in a variety of programming languages and technologies, I strive to build robust and functional applications on both the front-end and back-end. My focus is on code quality and user experience.<br><br>Highlighted Projects<br>🛍️ Sales System: I developed a sales system using Java Swing and MySQL, providing a friendly and functional interface for sales and product management.<br><br>Contact<br>I'm excited for what the future holds in the world of development! If you're interested in collaborating on exciting projects or just want to connect, feel free to contact me.</h4>
+<p align="left">About Me<br>I am a passionate Full Stack developer dedicated to crafting innovative technological solutions. With experience in a variety of programming languages and technologies, I strive to build robust and functional applications on both the front-end and back-end. My focus is on code quality and user experience.<br><br>Highlighted Projects<br>🛍️ Sales System: I developed a sales system using Java Swing and MySQL, providing a friendly and functional interface for sales and product management.<br><br>Contact<br>I'm excited for what the future holds in the world of development! If you're interested in collaborating on exciting projects or just want to connect, feel free to contact me.</p>
 
 ###
 
@@ -43,11 +43,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA4NTUzcDRybWR6bHd0dXJwcDh3azlxMzNucHU3cmdsbGozbWc5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanyCodex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanyCodex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -56,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DanyCodex/DanyCodex/output/snake.svg" alt="Snake animation" />
+
 
 ###
